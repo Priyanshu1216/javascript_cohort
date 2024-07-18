@@ -1,10 +1,10 @@
-// Datatype => Type of data we're dealing 
+// Datatype => Type of data we're dealing
 
 // number  => 2 to the power 53
 // boolean => true, false
 // null  => itself a value and datatype
 // bigint => big number
-// string => "Priyansu"
+// string => "Priyanshu"
 // undefined => something which is not defined
 // symbol =>
 // object => {"key": "value"}
