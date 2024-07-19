@@ -4,7 +4,7 @@
 // Heap
 
 
-// Stack memory is used with primitive datatypes where a copy of value is assigned to other variables.
+// Stack memory is used with primitive datatypes, where a copy of value is assigned to other variables.
 
 
 // Example
@@ -23,7 +23,7 @@ console.log(user2);
 
 
 
-// Heap memory is used with non-primitives datatypes where refernece is passed instead of value.
+// Heap memory is used with non-primitive datatypes where reference is passed instead of value.
 
 // Example
 
@@ -38,7 +38,7 @@ console.log(obj1);
 console.log(obj2);
 
 
-// now if i try to change the value  in obj2, obj1 will also be maipulated because, it's  was passed when assigning to obj2
+// now if i try to change the value  in obj2, obj1 will also be maipulated because, it's reference was passed when assigning to obj2
 
 
 obj2.name = "rashu"
