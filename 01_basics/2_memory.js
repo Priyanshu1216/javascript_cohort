@@ -46,4 +46,3 @@ obj2.name = "rashu"
 console.log(obj1);
 console.log(obj2);
 
-
