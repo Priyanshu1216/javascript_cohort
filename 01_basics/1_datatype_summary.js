@@ -32,7 +32,7 @@ console.log(typeof not_defined);
 console.log(typeof sym);
 console.log(typeof sym_1);
 
-// let sym = "21" // (Symbol is immutable sting and can't be changed once assigned)
+// let sym = "21" // (Symbol is immutable string and can't be changed once assigned)
 
 console.log(sym);
 
