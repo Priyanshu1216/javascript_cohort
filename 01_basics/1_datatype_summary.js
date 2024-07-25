@@ -51,7 +51,7 @@ let obj = {
 console.log(typeof obj);            // object
 
 
-let fun = function(){
+let fun = function() {
   return "Hi there!"
 }
 
