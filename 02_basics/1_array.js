@@ -81,6 +81,8 @@ let arr4 = [1,2,3,4,5,6,7,8,9,10]
 
 // The splice() method returns an array with the deleted items:
 
+// it modifies the existing array
+
 
 function spliceArr(arr,start,num_of_items_to_delete, items_to_add){
  console.log(arr);
