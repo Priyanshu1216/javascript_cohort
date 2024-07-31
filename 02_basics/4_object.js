@@ -12,4 +12,4 @@ const obj1 = {
 
 const {name, age} = obj1;
 
-console.log(name, age);
+console.log(name, age)
