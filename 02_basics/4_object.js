@@ -14,3 +14,4 @@ const {name, age} = obj1;
 
 console.log(name, age);
 
+
