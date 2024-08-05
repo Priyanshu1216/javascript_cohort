@@ -8,4 +8,4 @@ let accountState;
 
 console.log(accountId);
 
-console.table([accountId, accountEmail, accountName, accountPassword, accountState])        // consople.table is used to display data in tabular form.
+console.table([accountId, accountEmail, accountName, accountPassword, accountState])        // console.table is used to display data in tabular form.
