@@ -15,4 +15,16 @@
 
 (function connectDB () {
   console.log(`DB connected.`);
-})()
+})();
+
+
+// Note: To end function execution we have to write semicolon(;) after execution
+
+
+// we can also pass parameters to the function(here using arrow funtion)
+
+
+((name) => {
+  console.log(`Hi ${name}, connected`);
+  
+})('rashu')
