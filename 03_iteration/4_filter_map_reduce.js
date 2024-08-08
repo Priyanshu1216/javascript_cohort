@@ -19,7 +19,7 @@ console.log(anotherArr);
 
 
 
-// chaining (applying one method after another)
+// method chaining (applying one method after another)
 
 
 const arr1 = arr.map((item) => item * 2).map((item) => item + 10).filter((item) => item > 12)
