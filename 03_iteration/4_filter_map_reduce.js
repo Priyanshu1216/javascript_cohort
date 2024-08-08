@@ -25,3 +25,15 @@ console.log(anotherArr);
 const arr1 = arr.map((item) => item * 2).map((item) => item + 10).filter((item) => item > 12)
 
 console.log(arr1);
+
+
+
+// reduce
+
+// this method is mainly used to sum up the elements (integers) from Array
+// it has accumulator and current value and also one inittal value(take as paramenter)
+
+
+
+const sum = arr.reduce((acc, current_value) => acc + current_value, 0)
+console.log(sum);
