@@ -19,10 +19,9 @@ console.log(anotherArr);
 
 
 
-// reduce
+// chaining (applying one method after another)
 
 
-const arr1 = arr.reduce((item) => Math.floor(item / 2))
-console.log(arr);
+const arr1 = arr.map((item) => item * 2).map((item) => item + 10).filter((item) => item > 12)
 
 console.log(arr1);
