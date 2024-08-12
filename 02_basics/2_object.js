@@ -1,4 +1,4 @@
-// Object -> Collectio of key value pairs
+// Object -> Collection of key value pairs
 
 // There are two ways to define Object
 
