@@ -39,3 +39,4 @@ const sum = arr.reduce((acc, current_value) => acc + current_value, 0)
 console.log(sum);
 
 
+
