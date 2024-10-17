@@ -60,4 +60,3 @@ console.log((typeof fun));          // Funtion
 
 
 
-
