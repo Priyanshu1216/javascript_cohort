@@ -57,4 +57,3 @@ let fun = function() {
 
 console.log(fun());
 console.log((typeof fun));          // Funtion
-
