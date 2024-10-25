@@ -59,3 +59,4 @@ console.log(fun());
 console.log((typeof fun));          // Funtion
 
 
+
